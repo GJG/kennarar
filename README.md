@@ -1,2 +1,2 @@
 # kennarar
-leiðbeiningar hamda kennurum sem vilja not GIT
+leiðbeiningar handa kennurum sem vilja nota GIT
